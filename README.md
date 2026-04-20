@@ -1,56 +1,43 @@
 <div align="center">
 
-<!-- HEADER BANNER — uses svg-banners which renders reliably on GitHub -->
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Babu%20Saheb&width=800&height=120" alt="Babu Saheb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Babu%20Saheb&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Node.js%20Developer%20%7C%20Mobile%20%26%20Backend%20Specialist&descAlignY=55&descSize=15" width="100%"/>
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=🚀+Flutter+Developer;🟢+Node.js+%2F+Express.js+Developer;📱+Android+%26+iOS+App+Specialist;🔥+REST+API+%26+Backend+Engineer;⚡+BLoC+%7C+GetX+%7C+Firebase+Expert)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
-
-<p>
-  <a href="https://linkedin.com/in/babu-saheb-608155239">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/BabuSaheb12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:babusahebji4027@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/916204592045">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=BabuSaheb12&color=00D9FF&style=flat-square&label=Profile+Views"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=54D4E8&center=true&vCenter=true&random=false&width=650&lines=🚀+Flutter+Developer;🟢+Node.js+%2F+Express.js+Developer;📱+Cross-Platform+App+Specialist;🔥+REST+API+%26+Backend+Engineer;⚡+BLoC+%7C+GetX+%7C+Firebase+Expert)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```javascript
-const babuSaheb = {
-  role      : ["Flutter Developer", "Node.js Developer"],
-  location  : "New Delhi, India 📍",
-  experience: "1+ year",
-  mobile    : ["Android", "iOS"],
-  backend   : ["Node.js", "Express.js", "REST API"],
-  state_mgmt: ["BLoC", "GetX", "Provider"],
-  database  : ["MongoDB", "MySQL", "Firebase Firestore"],
-  currently : "Building scalable mobile + backend apps 🚀",
-  motto     : "Code. Build. Improve. Repeat."
-};
-```
+### 👋 Hi, I'm Babu Saheb
+
+💡 Passionate **Flutter & Node.js Developer** with **1+ year** of experience building high-performance cross-platform apps and scalable backend APIs.
+
+📱 Expert in **Flutter** — clean UI, BLoC/GetX state management, Firebase integration.
+
+🟢 Skilled in **Node.js / Express.js** — REST APIs, authentication, database design.
+
+🔗 Comfortable working **full-stack mobile** — from backend API to the pixel-perfect app UI.
+
+🎯 Focused on delivering **real-world solutions** with excellent user experience.
+
+📍 **New Delhi, India** &nbsp;·&nbsp; 📧 babusahebji4027@gmail.com &nbsp;·&nbsp; 📱 6204592045
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,27 +48,32 @@ const babuSaheb = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📱 Mobile Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### 🟢 Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -89,82 +81,58 @@ const babuSaheb = {
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+</div>
+
 ---
 
 ## 💼 Work Experience
 
-### 🚀 Flutter Developer — Villwor IT Services, New Delhi
-**📅 Nov 2025 – Present**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-> - ✅ Developing production-ready Flutter apps for Android & iOS
-> - ✅ Implementing real-time APIs & Firebase integrations
-> - ✅ Designing pixel-perfect UI with clean, scalable codebase
+### 🚀 Flutter Developer
+**Villwor IT Services** · New Delhi
+📅 `Nov 2025 – Present`
 
----
+- ✅ Developed production-ready Flutter apps
+- ✅ Implemented real-time APIs & Firebase
+- ✅ Designed pixel-perfect UI for Android & iOS
+- ✅ Maintained scalable and clean codebase
 
-### 🟢 Flutter Developer — Mobiloitte Technologies Pvt Ltd, New Delhi
-**📅 Jan 2025 – Nov 2025**
+</td>
+<td width="50%" valign="top">
 
-> - ✅ Built scalable cross-platform Flutter apps
-> - ✅ Integrated REST APIs & Firebase (real-time sync + push notifications)
-> - ✅ Applied BLoC & Provider patterns for state management
-> - ✅ Optimized app performance & UI responsiveness
+### 🟢 Flutter Developer
+**Mobiloitte Technologies Pvt Ltd** · New Delhi
+📅 `Jan 2025 – Nov 2025`
+
+- ✅ Built scalable cross-platform Flutter apps
+- ✅ Integrated APIs & Firebase (real-time + notifications)
+- ✅ Used BLoC & Provider for clean architecture
+- ✅ Improved app performance & UI responsiveness
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Live Projects
 
-### 🏗️ Salvaging App
-> Marketplace for leftover construction materials
-> **Stack:** Flutter · Node.js · Firebase · REST API
+<div align="center">
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.salvaging)
+| # | Project | Description | Stack | Link |
+|---|---------|-------------|-------|------|
+| 🏗️ | **Salvaging App** | Marketplace for leftover construction materials | Flutter · Node.js · Firebase · REST API | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.salvaging) |
+| 🏠 | **Real Estate App** | Role-based UI · Property listing & navigation | Flutter · Node.js · Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lnh.landsandhomes) |
+| 🚗 | **Safe Auto** | Rapido-style ride booking with live tracking | Flutter · Node.js · Socket.io · Maps | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.talkup.ai) |
+| 🏢 | **VTiCPL App** | Construction site reporting · Photo uploads | Flutter · Node.js · Express.js | [![Website](https://img.shields.io/badge/Website-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://vticpl.in/) |
+| 🧊 | **Crystal Ice App** | Business + field staff management · Analytics | Flutter · Node.js · MongoDB | — |
+| 📦 | **Vendor App** | Full-featured vendor management system | Flutter · Node.js · REST API | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.acunec.obc_vendor) |
+| 📸 | **Fotato App** | Photo-sharing platform with smooth UI | Flutter · Node.js · Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fotato.user) |
 
----
-
-### 🏠 Real Estate App
-> Role-based UI for multiple users · Property listing & navigation system
-> **Stack:** Flutter · Node.js · Firebase
-
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lnh.landsandhomes)
-
----
-
-### 🚗 Safe Auto *(Rapido Clone)*
-> Live ride booking system with real-time tracking & ride assignment
-> **Stack:** Flutter · Node.js · Socket.io · Maps API
-
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.talkup.ai)
-
----
-
-### 🏢 VTiCPL App
-> Construction site reporting · Photo uploads · Project tracking
-> **Stack:** Flutter · Node.js · Express.js
-
-[![Website](https://img.shields.io/badge/Visit_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vticpl.in/)
-
----
-
-### 🧊 Crystal Ice App
-> Business + field staff management · Location tracking · Analytics dashboard
-> **Stack:** Flutter · Node.js · MongoDB
-
----
-
-### 📦 Vendor App
-> Full-featured vendor management system with OBC integration
-> **Stack:** Flutter · Node.js · REST API
-
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.acunec.obc_vendor)
-
----
-
-### 📸 Fotato App
-> Photo-sharing platform with smooth real-time UI
-> **Stack:** Flutter · Node.js · Firebase
-
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fotato.user)
+</div>
 
 ---
 
@@ -172,56 +140,66 @@ const babuSaheb = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BabuSaheb12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=E2E8F0"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BabuSaheb12&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=F472B6&currStreakLabel=00D9FF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BabuSaheb12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=54D4E8&icon_color=A78BFA&text_color=E2E8F0&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabuSaheb12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=54D4E8&text_color=E2E8F0&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabuSaheb12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E2E8F0&langs_count=8"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BabuSaheb12&theme=tokyonight&hide_border=true&background=0D1117&stroke=54D4E8&ring=A78BFA&fire=F472B6&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=54D4E8&sideLabels=A78BFA&dates=64748B)
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BabuSaheb12&bg_color=0D1117&color=00D9FF&line=A78BFA&point=F472B6&area=true&hide_border=true" width="100%"/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BabuSaheb12&bg_color=0D1117&color=54D4E8&line=A78BFA&point=F472B6&area=true&hide_border=true)
+
 </div>
 
 ---
 
 ## 🎯 Soft Skills
 
-| Skill | Level |
-|-------|-------|
-| 🧠 Problem Solving | ⭐⭐⭐⭐⭐ |
-| 🤝 Team Collaboration | ⭐⭐⭐⭐⭐ |
-| ⚡ Agile Methodology | ⭐⭐⭐⭐⭐ |
-| 💬 Communication | ⭐⭐⭐⭐⭐ |
-| 📚 Quick Learner | ⭐⭐⭐⭐⭐ |
+<div align="center">
+
+![Problem Solving](https://img.shields.io/badge/✔_Problem_Solving-54D4E8?style=flat-square)
+![Team Collaboration](https://img.shields.io/badge/✔_Team_Collaboration-A78BFA?style=flat-square)
+![Agile Methodology](https://img.shields.io/badge/✔_Agile_Methodology-F472B6?style=flat-square)
+![Communication](https://img.shields.io/badge/✔_Communication-FBBF24?style=flat-square)
+![Quick Learner](https://img.shields.io/badge/✔_Quick_Learner-34D399?style=flat-square)
+
+</div>
 
 ---
 
 ## 🎓 Education
 
 🎓 **B.Tech – Computer Science & Engineering**
-📍 Gateway Institute of Engineering and Technology, Sonipat
+Gateway Institute of Engineering and Technology, Sonipat
 📅 `2020 – 2024`
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/babu-saheb-608155239)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BabuSaheb12)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babusahebji4027@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BabuSaheb12)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babusahebji4027@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916204592045)
 
-<br/>
+</div>
 
-⭐ *If you like my work, consider starring my repositories!*
+---
 
-<br/>
+<div align="center">
 
-> ### *"Code. Build. Improve. Repeat."* 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=BabuSaheb12&color=54D4E8&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+> *"Code. Build. Improve. Repeat."* 🚀
 
 </div>
