@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Babu</h1>
+<h3 align="center">Java Developer | Spring Boot | Backend Developer</h3>
 
-<!--
-**Babusaheb12/Babusaheb12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on **Spring Boot Projects**
+- 🌱 I’m learning **Microservices & React**
+- 💬 Ask me about **Java, Spring Boot, REST API**
+- ⚡ Fun fact: I love coding 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- 💻 Java | Spring Boot | Hibernate
+- 🌐 HTML | CSS | JavaScript | React
+- 🛢️ MySQL | MongoDB
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: your-linkedin-link
+- Email: your-email@gmail.com
