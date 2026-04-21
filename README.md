@@ -16,7 +16,7 @@
 
 ### 👋 Hi, I'm Babu Saheb
 
-💡 Passionate **Flutter & Node.js Developer** with **1+ year** of experience building high-performance cross-platform apps and scalable backend APIs.
+💡 Passionate **Flutter & Node.js Developer** with **1.5+ year** of experience building high-performance cross-platform apps and scalable backend APIs.
 
 📱 Expert in **Flutter** — clean UI, BLoC/GetX state management, Firebase integration.
 
