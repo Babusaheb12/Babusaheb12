@@ -147,7 +147,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BabuSaheb12&theme=tokyonight&hide_border=true&background=0D1117&stroke=54D4E8&ring=A78BFA&fire=F472B6&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=54D4E8&sideLabels=A78BFA&dates=64748B)
+![GitHub Streak](https://streak-stats.demolab.com/?user=BabuSaheb12&theme=tokyonight&hide_border=true&background=0D1117&stroke=54D4E8&ring=A78BFA&fire=F472B6&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=54D4E8&sideLabels=A78BFA&dates=64748B)
 
 </div>
 
