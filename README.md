@@ -92,7 +92,7 @@
 <td width="50%" valign="top">
 
 ### 🚀 Flutter Developer
-**Bigwon Digital Services Pvt. Ltd ** · jaipur
+**Bigwon Digital Services Pvt. Ltd** · jaipur
 📅 `Nov 2025 – Present`
 
 - ✅ Developed production-ready Flutter apps
