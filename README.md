@@ -139,10 +139,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BabuSaheb12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=54D4E8&icon_color=A78BFA&text_color=E2E8F0&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabuSaheb12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=54D4E8&text_color=E2E8F0&langs_count=8" height="165"/>
-
+<img src="https://github-stats-extended.vercel.app/api?username=BabuSaheb12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=54D4E8&icon_color=A78BFA&text_color=E2E8F0&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BabuSaheb12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=54D4E8&text_color=E2E8F0&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
