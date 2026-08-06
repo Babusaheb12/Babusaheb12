@@ -132,7 +132,7 @@
 | 📦 | **Vendor App** | Full-featured vendor management system | Flutter · Node.js · REST API | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.acunec.obc_vendor) |
 | 📸 | **Fotato App** | Photo-sharing platform with smooth UI | Flutter · Node.js · Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fotato.user) |
 | 👔 | **Zodia India** | Premium men's fashion store · REST API backend | Node.js · Express.js · REST API | [![Website](https://img.shields.io/badge/Website-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://zodiaindia.com/) |
-| 💘 | **Date Karlo** | Dating app · Meaningful connections platform | Flutter · Node.js · REST API | [![Website](https://img.shields.io/badge/Website-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://datekarlo.com/) |
+| 💘 | **Date Karlo** | Dating app · Meaningful connections platform | Flutter · Node.js · REST API | [![Play Store](https://play.google.com/store/apps/details?id=com.bigwondigital.datekarlo&pcampaignid=web_share) |
 
 </div>
 
