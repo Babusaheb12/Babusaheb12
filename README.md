@@ -91,7 +91,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Flutter Developer
+### 🚀 Flutter and node-js Developer
 **Bigwon Digital Services Pvt. Ltd** · jaipur
 📅 `Nov 2025 – Present`
 
