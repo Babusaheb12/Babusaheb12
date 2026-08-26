@@ -153,10 +153,9 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BabuSaheb12&bg_color=0D1117&color=54D4E8&line=A78BFA&point=F472B6&area=true&hide_border=true)
+<img src="https://raw.githubusercontent.com/BabuSaheb12/BabuSaheb12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
-
 ---
 
 ## 🎯 Soft Skills
