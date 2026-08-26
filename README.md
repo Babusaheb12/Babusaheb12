@@ -156,6 +156,7 @@
 <img src="https://raw.githubusercontent.com/BabuSaheb12/BabuSaheb12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
+
 ---
 
 ## 🎯 Soft Skills
