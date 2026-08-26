@@ -124,6 +124,7 @@
 
 | # | Project | Description | Stack | Link |
 |---|---------|-------------|-------|------|
+| 🏥 | **QuickMed** | Telehealth platform for online doctor consultations | Flutter · Node.js · REST API · Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.quickmed.quickmed&pcampaignid=web_share) [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/ch/app/quickmed-app/id6737278009) |
 | 🏗️ | **Salvaging App** | Marketplace for leftover construction materials | Flutter · Node.js · Firebase · REST API | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.salvaging) |
 | 🏠 | **Real Estate App** | Role-based UI · Property listing & navigation | Flutter · Node.js · Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lnh.landsandhomes) |
 | 🤖 | **TalkUp.AI** | Your Voice, Empowered by Intelligence | Flutter · Node.js · Socket.io · Maps | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.talkup.ai) |
