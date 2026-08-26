@@ -152,9 +152,17 @@
 
 </div>
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BabuSaheb12/BabuSaheb12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BabuSaheb12/BabuSaheb12/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BabuSaheb12/BabuSaheb12/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/BabuSaheb12/BabuSaheb12/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+[View the full contribution calendar on GitHub →](https://github.com/BabuSaheb12)
 
 </div>
 
